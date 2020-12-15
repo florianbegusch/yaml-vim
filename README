@@ -23,8 +23,8 @@ SORT USE:
 - Type vim command: |
     :source ~/.vim/scripts/yamlsort.vim
 - Then: >
-    <F4> is mapped to sort YAML collections in direct order, 
-    and <F5> in reversed order.
+    <F5> is mapped to sort YAML collections in direct order,
+    and <F6> in reversed order.
 
 NOTES:
 - If you want change key mapping of sorting rules edit yamlsort.vim
